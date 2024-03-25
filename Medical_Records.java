@@ -1,6 +1,6 @@
 import java.sql.*;
 
-public class MedicalRecords {
+public class Medical_Records {
     public static void main(String[] args) {
         try {
             String jdbcUrl = "jdbc:oracle:thin:@localhost:1521:xe";
